@@ -33,15 +33,30 @@ form > .form-row > button {
     padding: 5px;
     padding-left: 30px;
     padding-right: 30px;
-    border-radius: 20px;
+    border-radius: 18px;
     background: #2348d4;
-    background: linearGradient(53deg, #2348d4 0%, #0265de 100%);
+    background: linear-gradient(53deg, #2348d4 0%, #0265de 100%);
     color: #fff;
     border: none;
 }   
 form > .form-row > span {
-
+    display: inline-block;
+    line-height: 26px;
+    padding: 5px;
+    margin-left: 5px;
+    font-size: 17px;
 }
 form > .form-row > a {
-    
+    line-height: 26px;
+    padding: 5px;
+    display: inline-block;
+    text-decoration: none;
+    color: #2348d4;
+    font-weight: bold;
+    font-size: 17px;
+
+
+
+
 }
+

@@ -11,7 +11,8 @@ maste vs basic structure
 _30 group website project_
 
 This project is for educational porpuses only. 
-Site published at Site published at https://rimantasziedelis.github.io/sign-up/
+Site published at Site published at https://rimantasziedelis.github.io/4-sign-up/
+                                    
 
 Design: [Sign-up](https://cdn.discordapp.com/attachments/850245533838868480/850246368214908970/day1dr.png)
 
