@@ -21,8 +21,13 @@ body {
     box-sizing: border-box;
 }
 
-a {
-    color: #fff;
+h1 {
+} 
+.bottom-texts {
+}
+
+.bottom-texts > a {
+color: #fff;
 }
 
 .right-column {
@@ -30,4 +35,7 @@ a {
     float: left;
     padding: 60px;
     background-color: #fff;
+}
+.close {
+
 }
