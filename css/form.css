@@ -13,7 +13,7 @@ form > .form-row:last-of-type {
 form > .form-row > label {
     display: inline-block;
     width: 100%;
-    font: size 17px;
+    font: size 15px;
     margin-bottom: 5px;
     color: #777;
     text-transform: uppercase;
@@ -26,6 +26,10 @@ form > .form-row > input {
     border: none;
     border-bottom: 2px solid #ccc ;
 }
+form > .form-row > input:focus-visible {
+    outline: 2px solid #777;
+}
+
 form > .form-row > button {
     font-size: 20px;
     line-height: 26px;
@@ -39,6 +43,14 @@ form > .form-row > button {
     color: #fff;
     border: none;
 }   
+form > .form-row > button:hover{
+    cursor:pointer;
+    background: #0265de;
+    background: linear-gradient(53deg, #0265de 0%, #2348d4 100%);
+
+}
+
+
 form > .form-row > span {
     display: inline-block;
     line-height: 26px;
@@ -54,9 +66,10 @@ form > .form-row > a {
     color: #2348d4;
     font-weight: bold;
     font-size: 17px;
-
-
-
+}
+    
+form > .form-row > a:hover {
+    text-decoration: underline;
 
 }
 
