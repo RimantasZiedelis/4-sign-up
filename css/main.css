@@ -12,13 +12,15 @@ body {
 }
 
 .left-column {
-    width: 40%;
+    width: 40;
     float: left;
     padding: 40px;
     padding-bottom: 20px;
     background-color: #3F52B2;
+    background-image: url(../Sign-up..jpg);
     color: #fff;
-    box-sizing: border-box;
+    background-size: cover;
+    background-position: center;    
 }
 
 h1 {
