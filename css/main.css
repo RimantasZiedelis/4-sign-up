@@ -12,12 +12,13 @@ body {
 }
 
 .left-column {
-    width: 40;
+    /* height: 500px; */
+    width: 40%;
     float: left;
     padding: 40px;
     padding-bottom: 20px;
     background-color: #3F52B2;
-    background-image: url(../img/hill..jpg);
+    background-image: url(../img/../img/hill..jpg);
     color: #fff;
     background-size: cover;
     background-position: center;    
