@@ -39,7 +39,7 @@ h1 {
 } 
 
 .bottom-texts {
-    /* position: absolute; */
+   position: absolute;
     bottom: 20px;
     left: 40px;
     right: 40px
